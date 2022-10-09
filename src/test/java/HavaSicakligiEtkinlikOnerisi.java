@@ -10,7 +10,7 @@ public class HavaSicakligiEtkinlikOnerisi {
         temp = input.nextInt();
 
         if (temp <= -20 || temp >= 50) {
-            System.out.println("Dışarı çıkman pek hayra alamet değil!");
+            System.out.println("Dışarı çıkman pek hayrına olmayabilir!");
         } else if (temp < 5) {
             System.out.println("Kayak iyi gider!");
         } else if (temp >= 5 && temp < 15) {
