@@ -14,7 +14,7 @@ public class HavaSicakligiEtkinlikOnerisi {
         } else if (temp < 5) {
             System.out.println("Kayak iyi gider!");
         } else if (temp >= 5 && temp < 15) {
-            System.out.println("Sinemada güzel bir fil olabilir!");
+            System.out.println("Sinemada güzel bir film olabilir!");
         } else if (temp >= 15 && temp < 25) {
             System.out.println("Mangal havası!");
         } else {
